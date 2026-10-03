@@ -1,6 +1,7 @@
 # XiangyaPsychTree
 
 中南大学湘雅精神医学专业历届 **本科 / 硕士 / 博士** 学生名录的可视化展示
+https://wenjiantan.github.io/XiangyaPsychTree/
 
 ## 数据来源
 https://ncrcmdxy.xyeyy.com/education/graduate-remember
